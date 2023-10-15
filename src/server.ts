@@ -4,7 +4,6 @@ import * as bodyParser from "body-parser"
 
 import connectDB from '../db/connect';
 
-
 const app = express()
 
 
