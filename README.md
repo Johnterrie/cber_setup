@@ -14,6 +14,7 @@ API using Node TypeScript Jest and MongoDB
 ## Execute the API
 ```sh
 $ npm install
+$
 $ npm start
 ```
 
